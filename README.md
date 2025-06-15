@@ -4,13 +4,13 @@ Análise prática feita com dados da rede Alura Store com o objetivo de identifi
 
 
 
-📌 Objetivo do desafio
+# 📌 Objetivo do desafio
 A meta principal é apoiar a tomada de decisão do cliente sobre qual loja deve ser vendida, com base em evidências quantitativas e qualitativas, tais como faturamento, satisfação do cliente e análise de produtos mais e menos vendidos.
 
 
 
 🔧 Tecnologias e ferramentas utilizadas
-Python – linguagem base do projeto
+* Python – linguagem base do projeto
 
 Pandas – para limpeza e análise de dados
 
