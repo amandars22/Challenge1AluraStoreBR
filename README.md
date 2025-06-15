@@ -4,12 +4,12 @@ Análise prática feita com dados da rede Alura Store com o objetivo de identifi
 
 
 
-📌 Objetivo do desafio
+###📌 Objetivo do desafio
 A meta principal é apoiar a tomada de decisão do cliente sobre qual loja deve ser vendida, com base em evidências quantitativas e qualitativas, tais como faturamento, satisfação do cliente e análise de produtos mais e menos vendidos.
 
 
 
-🔧 Tecnologias e ferramentas utilizadas
+###🔧 Tecnologias e ferramentas utilizadas
 Python – linguagem base do projeto
 
 Pandas – para limpeza e análise de dados
@@ -19,7 +19,7 @@ Matplotlib – para visualizações gráficas
 
 
 
-📊 Etapas da análise
+###📊 Etapas da análise
 Leitura dos dados das quatro lojas da rede
 
 Cálculo do faturamento total por loja
@@ -37,7 +37,7 @@ Análise comparativa para identificar a loja com menor eficiência operacional
 
 
 
-💡 Principais insights
+###💡 Principais insights
 A Loja 4 apresentou o menor faturamento entre todas as lojas analisadas.
 
 Recebeu avaliações abaixo da média, refletindo insatisfação dos clientes.
@@ -49,7 +49,7 @@ Tais fatores sugerem uma operação com baixo retorno e pouca viabilidade, justi
 
 
 
-🎯 Recomendação final
+###🎯 Recomendação final
 Recomenda-se a venda da Loja 4, dada sua baixa performance financeira e operacional. Essa ação permitiria:
 
 Redirecionar recursos para unidades mais rentáveis
